@@ -1,0 +1,29 @@
+{
+  "name": "brucetruth/bot-lang",
+  "homepage": "https://cloud.litebase.xyz",
+  "type": "project",
+  "description": "A collection of tools to normalize a users text input before processing by the bot.",
+  "license": "MIT",
+  "keywords": [
+    "Bot lang",
+    "NLP"
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "BotLang\\": "src/"
+
+    }
+  },
+  "require": {
+    "php": ">=7.2"
+
+  },
+  "config": {
+    "preferred-install": "dist",
+    "disable-tls": true,
+    "secure-http": false
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

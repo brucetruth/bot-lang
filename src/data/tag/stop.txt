@@ -1,0 +1,5 @@
+stop
+shut_up
+be_quiet
+leave_me_alone
+quit

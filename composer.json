@@ -8,6 +8,14 @@
     "Bot lang",
     "NLP"
   ],
+  "authors": [
+        {
+            "name" : "Bruce Mubangwa",
+            "email" : "bruce@litebase.xyz",
+            "homepage" : "https://github.com/brucetruth/",
+            "role" : "Developer"
+        }
+    ],
 
   "autoload": {
     "psr-4": {
